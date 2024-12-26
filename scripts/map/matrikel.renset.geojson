@@ -1,0 +1,3114 @@
+{
+    "type": "FeatureCollection",
+    "name": "jordstykke",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1451125,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015222",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-02T22:24:56Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "2001-10-11T09:54:42Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "20130960",
+                "jordstykkelokalid": "272809",
+                "matrikelnummer": "4fp"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262591467200862,
+                        56.249492920636136
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1703473,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015436",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T03:20:19Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7625068",
+                "jordstykkelokalid": "272741",
+                "matrikelnummer": "4ba"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263038611885829,
+                        56.24589951979747
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1682250,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015440",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T03:08:27Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7625068",
+                "jordstykkelokalid": "272779",
+                "matrikelnummer": "4bb"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.26232167789373,
+                        56.24600047216679
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1706832,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015441",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T03:20:23Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7625068",
+                "jordstykkelokalid": "272805",
+                "matrikelnummer": "4bc"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261848291889654,
+                        56.24604143050149
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1685947,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015443",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T03:08:34Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7625068",
+                "jordstykkelokalid": "272804",
+                "matrikelnummer": "4bg"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.26192190150105,
+                        56.24629371821155
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1670575,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015442",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T02:56:13Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7625068",
+                "jordstykkelokalid": "272776",
+                "matrikelnummer": "4bh"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262415576489836,
+                        56.24625276828865
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1698380,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015435",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T03:17:37Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7625068",
+                "jordstykkelokalid": "272749",
+                "matrikelnummer": "4bi"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263024173747336,
+                        56.24620065171902
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1679299,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015439",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T03:05:23Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7625068",
+                "jordstykkelokalid": "272808",
+                "matrikelnummer": "4az"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.26182871581103,
+                        56.24581179213463
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1717055,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015438",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T03:27:38Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7625068",
+                "jordstykkelokalid": "272780",
+                "matrikelnummer": "4aæ"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262253618359603,
+                        56.245759485627694
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1693454,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015437",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T03:17:21Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7625068",
+                "jordstykkelokalid": "272759",
+                "matrikelnummer": "4aø"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262735536909627,
+                        56.2459180587048
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 898176,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015105",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:32:31Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272768",
+                "matrikelnummer": "4cq"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.26272616218326,
+                        56.24863967521401
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 997908,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015106",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:53Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272740",
+                "matrikelnummer": "4cr"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263098241687338,
+                        56.24857225238081
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 961054,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015103",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:36:22Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272745",
+                "matrikelnummer": "4ct"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263049948926767,
+                        56.248892185754094
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 983978,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015102",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:42Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272765",
+                "matrikelnummer": "4cu"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262616987031983,
+                        56.24897083238693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 953768,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015118",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:36:17Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272806",
+                "matrikelnummer": "4cv"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261859825026178,
+                        56.24893248693118
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 975236,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015116",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:27Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272795",
+                "matrikelnummer": "4cy"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262075028868662,
+                        56.24931664718758
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1011970,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015099",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:39:00Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272763",
+                "matrikelnummer": "4cz"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262663498490928,
+                        56.24924190602281
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 904459,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015101",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:34:30Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272727",
+                "matrikelnummer": "4cø"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263352173173276,
+                        56.24914994741767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 972821,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015109",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:26Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272708",
+                "matrikelnummer": "4da"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263786802344882,
+                        56.248934271579024
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 886869,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015124",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:32:04Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272696",
+                "matrikelnummer": "4dc"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.2639406075643,
+                        56.24951412904901
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 977711,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015126",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:28Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272725",
+                "matrikelnummer": "4dd"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.26329132987758,
+                        56.249569989686755
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 929707,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015113",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:35:25Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272784",
+                "matrikelnummer": "4dh"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262242414985819,
+                        56.24986264584469
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 2126855,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015127",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T04:23:49Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "20001479",
+                "jordstykkelokalid": "272753",
+                "matrikelnummer": "4de"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262899085287218,
+                        56.249599745303996
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 866995,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015474",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:30:52Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272824",
+                "matrikelnummer": "4bø"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261521184271066,
+                        56.24730595847087
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 959234,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015450",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:36:20Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272791",
+                "matrikelnummer": "4ca"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262189752153983,
+                        56.247152247669284
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 993496,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015431",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:44Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272729",
+                "matrikelnummer": "4cc"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263305272676119,
+                        56.24716083050068
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 876586,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015598",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:30:59Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272731",
+                "matrikelnummer": "4cd"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263290731545622,
+                        56.24750337724076
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 965640,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015601",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:36:25Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272790",
+                "matrikelnummer": "4cf"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262141357308309,
+                        56.24750604779674
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 907260,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015472",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:34:33Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272822",
+                "matrikelnummer": "4cg"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261539564996713,
+                        56.247524305361566
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1016736,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015602",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:39:08Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272792",
+                "matrikelnummer": "4ci"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262160856899653,
+                        56.24776957084886
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 929724,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015600",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:35:26Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272762",
+                "matrikelnummer": "4ck"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.26266794258318,
+                        56.247754999216696
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 933005,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015597",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:35:29Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272734",
+                "matrikelnummer": "4cl"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.26329016766715,
+                        56.24769159153242
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 972843,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015120",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:26Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272819",
+                "matrikelnummer": "4cn"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261671568324301,
+                        56.24858974389304
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 886635,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015119",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:32:04Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272813",
+                "matrikelnummer": "4co"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.26177922388982,
+                        56.248759243341354
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 909109,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015115",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:34:35Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272793",
+                "matrikelnummer": "4df"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262135355480083,
+                        56.24949363761181
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 891654,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015114",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:32:20Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272788",
+                "matrikelnummer": "4dg"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262188897821488,
+                        56.2496743632468
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1016093,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015128",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:39:07Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272751",
+                "matrikelnummer": "4di"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262925412325524,
+                        56.24984445494113
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1374436,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015471",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:58:24Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "2003-04-04T11:31:24Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "20130960",
+                "jordstykkelokalid": "272864",
+                "matrikelnummer": "4b"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261450937567563,
+                        56.24775761654838
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 999176,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015110",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:54Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272699",
+                "matrikelnummer": "4db"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263880865110606,
+                        56.24913763930707
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 955277,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015108",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:36:18Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272712",
+                "matrikelnummer": "4cs"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263733410117148,
+                        56.24869706272286
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 959985,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015117",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:36:22Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272803",
+                "matrikelnummer": "4cx"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261960682480082,
+                        56.24911703422267
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 977457,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015100",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:28Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272744",
+                "matrikelnummer": "4cæ"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263068113569087,
+                        56.24920464785015
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1406233,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015136",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-02T16:51:06Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "2001-10-11T09:54:42Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "20130960",
+                "jordstykkelokalid": "272705",
+                "matrikelnummer": "4fq"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.264176492267204,
+                        56.25041094400248
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 999878,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015479",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:38:47Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272831",
+                "matrikelnummer": "4bq"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261372671172198,
+                        56.24681644637143
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 980881,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015446",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:37Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272772",
+                "matrikelnummer": "4bs"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262569545459186,
+                        56.24676110193839
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 868179,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015432",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:30:55Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272733",
+                "matrikelnummer": "4bu"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263245113691818,
+                        56.24693114837439
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 908274,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015448",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:34:34Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272794",
+                "matrikelnummer": "4bx"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262102492376668,
+                        56.2469413603792
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 909753,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015477",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:34:59Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272829",
+                "matrikelnummer": "4by"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261412612342793,
+                        56.24702352146586
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 965817,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015476",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:36:25Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272853",
+                "matrikelnummer": "4bz"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.2609256562471,
+                        56.24707576540869
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 868347,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015111",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:30:55Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272782",
+                "matrikelnummer": "4dq"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262270277755546,
+                        56.250283130517644
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 901864,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015125",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:34:27Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272694",
+                "matrikelnummer": "4dl"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263939952781463,
+                        56.24973621924388
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 997166,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015130",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:52Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272748",
+                "matrikelnummer": "4dn"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263377677268426,
+                        56.2501046208976
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1005919,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015112",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:39:00Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272781",
+                "matrikelnummer": "4dp"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262343303843126,
+                        56.25005095738918
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 927925,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015134",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:35:39Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272702",
+                "matrikelnummer": "4ds"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263978894935729,
+                        56.250278324875076
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1004509,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015133",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:38:57Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272720",
+                "matrikelnummer": "4dt"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263572746417184,
+                        56.2504511196174
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 891565,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015122",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:32:20Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272826",
+                "matrikelnummer": "4dv"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261402272867327,
+                        56.24820552329503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1028105,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Matrikulær sag",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015135",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:40:03Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "16030802",
+                "jordstykkelokalid": "272697",
+                "matrikelnummer": "4dm"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.264101252814232,
+                        56.250063869209676
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 2329805,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015596",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T04:39:20Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7625891",
+                "jordstykkelokalid": "272718",
+                "matrikelnummer": "4eb"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263553183093444,
+                        56.247921439909184
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 2330279,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015205",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T04:39:21Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7625891",
+                "jordstykkelokalid": "272711",
+                "matrikelnummer": "4ed"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263653793326121,
+                        56.248185033111724
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 993019,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015484",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:43Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272865",
+                "matrikelnummer": "4ax"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.260638060562652,
+                        56.246051590706
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 869638,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015485",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:30:47Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272845",
+                "matrikelnummer": "4bd"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261158604848942,
+                        56.24606713293582
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 907306,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015482",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:34:33Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272861",
+                "matrikelnummer": "4be"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.260724997743587,
+                        56.24636788120523
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 960563,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015445",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:36:22Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272774",
+                "matrikelnummer": "4bl"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262475665896275,
+                        56.24650504085661
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 889065,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015444",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:32:05Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272798",
+                "matrikelnummer": "4bm"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262022677869918,
+                        56.24650838543321
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 993889,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015481",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:44Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272836",
+                "matrikelnummer": "4bn"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261326145252553,
+                        56.24655290214207
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 999539,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015478",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:38:46Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272855",
+                "matrikelnummer": "4bp"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.260865506271731,
+                        56.24684984700031
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 911805,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015449",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:35:03Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272767",
+                "matrikelnummer": "4bv"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262595936793211,
+                        56.24697945684777
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 892219,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015475",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:32:21Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272851",
+                "matrikelnummer": "4bæ"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261011581389656,
+                        56.247335592668435
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 930921,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015430",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:35:27Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272764",
+                "matrikelnummer": "4cb"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262622334226528,
+                        56.24719406476504
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 890585,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015599",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:32:18Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272758",
+                "matrikelnummer": "4ce"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262722708623937,
+                        56.24752919401019
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 909053,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015473",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:34:35Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272849",
+                "matrikelnummer": "4ch"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261133777235115,
+                        56.247557796714
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 979979,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015121",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:35Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272825",
+                "matrikelnummer": "4cm"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261557231544517,
+                        56.24838636557078
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1004382,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015104",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:38:57Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272777",
+                "matrikelnummer": "4cp"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262360896599377,
+                        56.24869203075849
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 930561,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015486",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:35:26Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272848",
+                "matrikelnummer": "4ay"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.26109158570149,
+                        56.24587132285514
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 965471,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015483",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:36:25Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272838",
+                "matrikelnummer": "4bf"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261245642976961,
+                        56.24634954704731
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1000697,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015480",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:38:49Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272858",
+                "matrikelnummer": "4bo"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.260832459518415,
+                        56.24659760370088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 924837,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015447",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:35:34Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272796",
+                "matrikelnummer": "4br"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.26206936289158,
+                        56.24671922834087
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1000780,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Matrikulær sag",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015434",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:38:49Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1997-09-19T07:35:05Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "20074467",
+                "jordstykkelokalid": "272739",
+                "matrikelnummer": "4bk"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263151888456473,
+                        56.24645298853289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 944181,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Matrikulær sag",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015433",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:35:40Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1997-09-19T07:35:05Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "20074467",
+                "jordstykkelokalid": "272736",
+                "matrikelnummer": "4bt"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263218803021088,
+                        56.24668643852759
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 874197,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015210",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:30:55Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272807",
+                "matrikelnummer": "4dy"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261788030529322,
+                        56.24808542724982
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 958632,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015209",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:36:20Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272789",
+                "matrikelnummer": "4dz"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262159867388561,
+                        56.24809707234719
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 1020518,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015208",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:39:54Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272787",
+                "matrikelnummer": "4dæ"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262503460436552,
+                        56.24810868998206
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 992044,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015207",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:42Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272754",
+                "matrikelnummer": "4dø"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262796797275213,
+                        56.24804873850002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 928288,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015203",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:35:39Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272755",
+                "matrikelnummer": "4eg"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262781272961528,
+                        56.24830469370988
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 979926,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015206",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:35Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272737",
+                "matrikelnummer": "4ea"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263086506115295,
+                        56.24797371886254
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 999950,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015107",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:38:47Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272716",
+                "matrikelnummer": "4ee"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263646222537627,
+                        56.24845983052774
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 957990,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015204",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:36:20Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272738",
+                "matrikelnummer": "4ef"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.26311948432924,
+                        56.248252307534116
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 893066,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015202",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:32:23Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272771",
+                "matrikelnummer": "4eh"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262470083841968,
+                        56.24836462958509
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 987694,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015201",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:47Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272785",
+                "matrikelnummer": "4ei"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.262172381569933,
+                        56.24842835374377
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 888076,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015137",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:32:04Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272698",
+                "matrikelnummer": "4du"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263991384130867,
+                        56.2506284217791
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 886794,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015123",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:32:04Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272834",
+                "matrikelnummer": "4dx"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.261341887891074,
+                        56.24805113141809
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 888164,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015129",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:32:05Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272726",
+                "matrikelnummer": "4dk"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263405431763596,
+                        56.249848657620014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 993554,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015131",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:44Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272747",
+                "matrikelnummer": "4do"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.26291785716093,
+                        56.25011547817797
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "objectid": 996173,
+                "transaktionsid": "0000000000000000001",
+                "afreg_transaktionsid": null,
+                "forretningshaendelse": "Afledt ændring",
+                "forretningsomraade": "52.20.05",
+                "forretningsproces": "Anden sagskategori",
+                "id_namespace": "http://data.gov.dk/Matriklen/Centroide",
+                "id_lokalid": "1015132",
+                "paataenkthandling": null,
+                "registreringfra": "2018-06-03T05:37:47Z",
+                "registreringsaktoer": "Matriklen",
+                "registreringtil": null,
+                "status": "Gældende",
+                "virkningfra": "1995-01-02T11:31:40Z",
+                "virkningsaktoer": "Geodatastyrelsen",
+                "virkningtil": null,
+                "senestesaglokalid": "7620771",
+                "jordstykkelokalid": "272750",
+                "matrikelnummer": "4dr"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [
+                    [
+                        10.263032064013165,
+                        56.250364035237865
+                    ]
+                ]
+            }
+        }
+    ]
+}
