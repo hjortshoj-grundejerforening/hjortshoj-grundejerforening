@@ -1,17 +1,78 @@
 <!DOCTYPE html>
+
 <head>
     <title>Hjortshøj Grundejerforening</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
 </head>
+
 <body>
-    <h1>Hjortshøj Grundejerforening</h1>
-    <ul>
-        <li><a href="index.html">Om foreningen</a></li>
-        <li><a href="vedtægter.html">Vedtægter</a></li>
-        <li><a href="bestyrelsen.html">Bestyrelsen</a></li>
-        <li><a href="referater.html">Referater</a></li>
-        <li><a href="regnskab.html">Regnskab</a></li>
-        <li><a href="ejendomsmæglere.html">Til ejendomsmæglere</a></li>
-    </ul>
+    <sidebar>
+        <img src="images/logo.png" />
+        <toggle>
+            <bar></bar>
+            <bar></bar>
+            <bar></bar>
+        </toggle>
+        <a href="index.html">Om foreningen</a>
+        <a href="vedtægter.html">Vedtægter</a>
+        <a href="bestyrelsen.html">Bestyrelsen</a>
+        <a href="referater.html">Referater</a>
+        <a href="regnskab.html">Regnskab</a>
+        <a href="ejendomsmæglere.html">Til ejendomsmæglere</a>
+        <script type="text/javascript">
+            let toggle = document.querySelector("toggle")
+            let sidebar = document.querySelector("sidebar")
+            toggle.onclick = () => { sidebar.classList.toggle("open") }
+        </script>
+    </sidebar>
+    <page>
+        <article>
+            <h1>Hjortshøj Grundejerforening</h1>
+            <h2>Vedtæger</h2>
+            <p>Note: Vedtægterne er gengivet nedenfor af hensyn til tilgængeligheden. <a
+                    href="./documents/Vedtægter2023-10-24.pdf" target="_blank">De gældende vedtægter kan hentes her i PDF format.</a></p>
+            <p><span class="paragraf" id="paragraf-1">§1</span> Foreningens navn er "Hjortshøj Grundejerforening". Dens hjemsted er Hjortshøj Stationsby.</p>
+            <p><span class="paragraf" id="paragraf-2">§2</span> Foreningens formål er at varetage medlemmernes interesser vedrørende veje, kloak- og rensningsanlæg, vand- og elektriske ledninger, vejbelysning, påtale med hensyn til deklarationer m.v., samt andre fælles opgaver af enhver art på det areal, som foreningen omfatter. Foreningen har ingen politisk tilknytning.</p>
+            <p><span class="paragraf" id="paragraf-3">§3</span> Enhver, der har endeligt eller betinget skøde på en ejendom udstykket af matr. nr. 4b Hjortshøj by og sogn, skal være medlem af foreningen. Skulle andre ønske optagelse i foreningen, afgøres dette ved almindelig generalforsamlingsbeslutning, dog skal en eventuel optagelsesbegæring være et selvstændigt punkt på dagsordenen.</p>
+            <p><span class="paragraf"id="paragraf-4">§4</span> Hvert medlem betaler et årligt kontingent til foreningen, som skal indbetales på foreningens bankkonto helårsvis forud inden 10. maj. Et medlem, der har flere parceller, betaler kontingent for det antal grunde, vedkommende ejer. Det samme gælder, hvis flere medlemmer i forening er ejere af én eller flere parceller. Ændring i kontingentets størrelse kan ske ved almindelig generalforsamlingsbeslutning. Ved ejerskifte har et udtrædende medlem intet krav mod foreningen på tilbagebetaling af nogen del af det af medlemmet erlagte kontingent, eller nogen del af foreningens formue. Nye medlemmer har krav på at få et eksemplar af foreningens vedtægter. Restance med betalingen til foreningen udover forfaldsmåneden medfører bortfald af alle medlemsrettigheder, herunder stemmeret for det pågældende medlem, indtil restancen er betalt. Foreningen er berettiget til, eventuelt ad retslig vej hos restanten, at opkræve det skyldige beløb, med tillæg af omkostningerne ved inddrivelsen.</p>
+            <p><span class="paragraf" id="paragraf-5">§5</span> Generalforsamlingen er foreningens højeste myndighed. Ved enhver generalforsamling er stemmeret betinget af, at man ikke er i restance med forfalden ydelse i henhold til <a href="#paragraf-4">§4.</a>: I tvivlstilfælde er bankudskrift ene afgørende. Det er det enkelte medlems ansvar at medbringe bankudskrift ved generalforsamlingen. Enhver generalforsamling, der er indkaldt med lovligt varsel, er uanset de mødtes antal, beslutningsdygtig med hensyn til de i dagsordenen anførte emner. Indkaldelsen skal indeholde dagsorden med angivelse af, hvad der skal behandles på generalforsamlingen. Ordinær generalforsamling skal afholdes hvert år inden April måneds udgang. Indkaldelse skal ske med mindst 14 dages skriftligt varsel til medlemmerne. Sager, som af medlemmer ønskes forelagt for den ordinære generalforsamling, må skriftligt motiveret være formanden i hænde senest 8 dage før generalforsamlingen. Sager eller forslag, som et medlem ønsker behandlet på generalforsamlingen, skal skriftligt omdeles til alle medlemmer senest 2 dage før generalforsamlingen. Ekstraordinær generalforsamling kan afholdes efter beslutning af en generalforsamling eller af bestyrelsen, og skal i så fald indkaldes med mindst 14 dages skriftligt varsel til medlemmerne. Endvidere kan ekstraordinær generalforsamling indkaldes efter skriftlig begæring af mindst 1/6 af medlemmerne, i hvilket tilfælde bestyrelsen inden 8 dage efter sådan begærings modtagelse, skal indkalde den ekstraordinære generalforsamling med 8 dages skriftligt varsel til medlemmerne.</p>
+            <p><span class="paragraf" id="paragraf-6">§6</span> På enhver generalforsamling vælges en dirigent, der leder forhandlingerne og afgør alle procedure-spørgsmål. Der skal over forhandlingerne optages referat. Afstemningen foretages ved håndsoprækning, med mindre skriftlig afstemning forlanges af ét af de tilstedeværende medlemmer. Hver parcel har på generalforsamlingen 1 stemme. Man kan stemme pr. fuldmagt. En person kan max. komme med 1 fuldmagt</p>
+            <p><span class="paragraf" id="paragraf-7">§7</span> På enhver generalforsamling afgøres de forelagte sager ved simpelt stemmeflertal. Til vedtagelse af vedtægtsændringer kræves dog mindst 2/3 af foreningens samlede stemmetal repræsenteret, og at forslaget om vedtægtsændringer vedtages med mindst 2/3 af de tilstedeværende medlemmers stemmer. Er ikke mindst 2/3 af foreningens medlemmer repræsenteret på den pågældende generalforsamling, indkaldes til ekstraordinær generalforsamling. På en ekstraordinær generalforsamling kan ændringer vedtages med simpelt flertal.</p>
+            <p><span class="paragraf" id="paragraf-8">§8</span> Foreningen ledes af en bestyrelse bestående af 5 medlemmer, der vælges for to år på den ordinære generalforsamling. I ulige år vælges 2 bestyrelsesmedlemmer (formand og bestyrelsesmedlem); I lige år vælges 3 bestyrelsesmedlemmer (næstformand, kasserer og bestyrelsesmedlem). Dog således at formand og kasserer ikke afgår samme år. Hvert år vælges 2 suppleanter for 1 år ad gangen. Genvalg kan finde sted (også af ikke tilstedeværende, når skriftligt tilsagn foreligger fra disse). Desuden vælges 2 bestyrelsessuppleanter, 2 revisorer og 1 revisorsuppleant for 1 år. I tilfælde af frafald i bestyrelsen, indkaldes suppleanterne i den rækkefølge, de er valgt. Bestyrelsen konstituerer sig selv, gældende til næste ordinære generalforsamling.</p>
+            <p><span class="paragraf" id="paragraf-9">§9</span> Dagsordenen for ordinære generalforsamlinger skal minimum indeholde:
+                <ol>
+                    <li>Valg af dirigent.</li>
+                    <li>Bestyrelsens beretning om arbejdet i det forløbne år.</li>
+                    <li>Forelæggelse af det reviderede regnskab for det sidste regnskabsår.</li>
+                    <li>Indkomne forslag.</li>
+                    <li>Forelæggelse af budget med forslag om kontingent og bidrag til vejfonden for indeværende år.</li>
+                    <li>Valg af bestyrelse, suppleanter, revisorer og revisorsuppleanter jf. <a href="#paragraf-8">§8.</a></li>
+                    <li> Eventuelt.</li>
+                </ol>
+             </p>
+            <p><span class="paragraf" id="paragraf-10">§10</span> Formanden forestår den daglige ledelse af foreningen i henhold til vedtægterne og forretningsordenen, samt i overensstemmelse med bestyrelsens beslutninger. Foreningen tegnes af formanden sammen med et andet medlem af bestyrelsen, efter vedtagelse i bestyrelsen i hvert enkelt tilfælde.</p>
+            <p><span class="paragraf" id="paragraf-11">§11</span> Bestyrelsesmøder afholdes så ofte formanden eller 2 af bestyrelsens medlemmer forlanger det. Bestyrelsen er beslutningsdygtig, når blot 3 af dens medlemmer er tilstede. Beslutninger træffes ved simpelt stemmeflertal. Ved bestyrelsesmøderne optages et referat, der underskrives af deltagerne i mødet. Der udsendes referat fra bestyrelsesmøder og generalforsamlinger via foreningens hjemmeside www.hjortshojgrundejerforening.dk.</p>
+            <p><span class="paragraf" id="paragraf-12">§12</span> Kassereren fører foreningens regnskaber. Alle ind- og udbetalinger sker via foreningens pengeinstitut, hvor foreningens midler skal indestå. Efter bemyndigelse fra generalforsamlingen, kan bestyrelsen købe værdipapirer for vejfondens midler. Kassereren kan alene have en kontant beholdning efter bestyrelsens bestemmelse. Udbetaling af foreningens midler foretages af kassereren eller, i dennes forfald, formanden. Kassereren er pligtig på hver ordinær generalforsamling at forelægge det reviderede regnskab til generalforsamlingens godkendelse.</p>
+            <p><span class="paragraf" id="paragraf-13">§13</span> Asfaltbelægning på samtlige private veje, samt direkte tilstødende kantsten, fortove og belægning på offentlige områder, kan finansieres af vejfondens midler efter en generalforsamlingsbeslutning. De løbende udgifter til vedligeholdelse af de private veje, skal tages af den daglige drift.</p>
+            <p><span class="paragraf" id="paragraf-14">§14</span> Revisorerne er berettiget, til enhver tid, at foretage eftersyn af foreningens økonomi. Revisorerne er endvidere pligtige til at foretage eftersyn, når det forlanges af kassereren. Findes regnskabet og beholdningen i orden, giver revisorerne regnskabsbøgerne og regnskabet påtegning herom. Kan regnskabet derimod ikke godkendes, skal bestyrelsen straks underrettes derom.</p>
+            <p><span class="paragraf" id="paragraf-15">§15</span> Foreningens regnskabsår er kalenderåret. Foreningens reviderede regnskab og budget udsendes til medlemmerne, samtidig med indkaldelse til generalforsamling.</p>
+            <p><span class="paragraf" id="paragraf-16">§16</span> Hvert medlem er pligtig til at holde den om bygningen beliggende have vedlige, i det mindste som græsplæne. Bestyrelsen har påtaleret overfor misligholdelse af parcellerne.</p>
+            <p><span class="paragraf" id="paragraf-17">§17</span> Hvert medlem er pligtig til, ud for sin ejendom, omhyggeligt at sørge for kloakrensning, fortovs- og gadefejning, samt snerydning og grusning indtil vejens midterlinie. Medlemmerne er underkastet politivedtægten samt den for Århus kommune gældende lov for private veje.</p>
+            <p><span class="paragraf" id="paragraf-18">§18</span> Enhver klage til bestyrelsen, skal ske skriftligt.</p>
+            <p><span class="paragraf" id="paragraf-19">§19</span> Opløsningen af foreningen kan kun vedtages, såfremt 2/3 af medlemmerne er mødt, og 2/3 af disse stemmer for opløsning af foreningen.</p>
+            <p><span class="paragraf" id="paragraf-20"">§20</span> Foreningens midler kan ikke deles mellem medlemmerne, så længe foreningen består. Foreningen kan kun ophæves i overensstemmelse med reglerne i vedtægternes <a href="#paragraf-19">§19</a>, og først efter at medlemmernes økonomiske forpligtelser overfor foreningen er afviklet. Eventuelle overskydende midler deles ligeligt mellem grundejerne.</p>
+            <h3>Revisioner af vedtægterne</h3>
+            <ul>
+                <li>Nærværende vedtægter er vedtaget på Hjortshøj Grundejerforenings ekstraordinære generalforsamling d. 19. maj 1999.</li>
+                <li>Ændring af <a href="#paragraf-12">§12</a> vedtaget på ekstraordinær generalforsamling d. 10. maj 2000.</li>
+                <li>Ændring af <a href="#paragraf-4">§4</a> og <a href="#paragraf-5">§5</a> vedtaget på ekstraordinær generalforsamling d. 28. november 2005.</li>
+                <li>Ændring af <a href="#paragraf-4">§4</a>,<a href="#paragraf-5">§5</a>, <a href="#paragraf-11">§11</a> og <a href="#paragraf-12">§12</a> er vedtaget på ekstraordinær generalforsamling d. 18. juni 2016.</li>
+                <li>Ændring af <a href="#paragraf-13">§13</a> vedtaget på ekstraordinær generalforsamling d. 20. August 2023.</li>
+            </ul>
+        </article>
+    </page>
 </body>
+
 </html>

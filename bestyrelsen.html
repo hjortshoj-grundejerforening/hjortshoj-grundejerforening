@@ -2,16 +2,87 @@
 <head>
     <title>Hjortshøj Grundejerforening</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
-    <h1>Hjortshøj Grundejerforening</h1>
-    <ul>
-        <li><a href="index.html">Om foreningen</a></li>
-        <li><a href="vedtægter.html">Vedtægter</a></li>
-        <li><a href="bestyrelsen.html">Bestyrelsen</a></li>
-        <li><a href="referater.html">Referater</a></li>
-        <li><a href="regnskab.html">Regnskab</a></li>
-        <li><a href="ejendomsmæglere.html">Til ejendomsmæglere</a></li>
-    </ul>
+    <sidebar >
+        <img src="images/logo.png" />
+        <toggle>
+            <bar></bar>
+            <bar></bar>
+            <bar></bar>
+        </toggle>
+        <a href="index.html">Om foreningen</a>
+        <a href="vedtægter.html">Vedtægter</a>
+        <a href="bestyrelsen.html">Bestyrelsen</a>
+        <a href="referater.html">Referater</a>
+        <a href="regnskab.html">Regnskab</a>
+        <a href="ejendomsmæglere.html">Til ejendomsmæglere</a>
+        <script type="text/javascript">
+            let toggle = document.querySelector("toggle")
+            let sidebar = document.querySelector("sidebar")
+            toggle.onclick = () => { sidebar.classList.toggle("open")}
+        </script>
+    </sidebar>
+    <page>
+        <article>
+            <h1>Hjortshøj Grundejerforening</h1>
+            <h2>Bestyrelsen</h2>
+            <p><a href="./vedtægter.html#paragraf-8">Ud fra vedtægternes §8</a>, så er medlemmer af bestyrelsen valgt for 2 år. På lige år vælges næstformand, kasserer og 1 bestyrelsesmedlem. På ulige år vælges formand og 1 bestyrelsesmedlem. Suppleanter vælges hvert år. Revisorer er valgt for ét år ad gangen.</p>
+            <table>
+                <tr>
+                  <th>Formand</th>
+                  <td>Henrik Korsgaard</td>
+                  <td>Georgsmindevej 35</td>
+                </tr>
+                <tr>
+                  <th>Næstformand</th>
+                  <td>Bastian Tikøb Bak</td>
+                  <td>Bygbjerg 2</td>
+                </tr>
+                <tr>
+                  <th>Bestyrelsesmedlem (ulige år)</th>
+                  <td>Mathias Nørgaard Lind</td>
+                  <td>Georgsmindevej 33</td>
+                </tr>
+                <tr>
+                    <tH>Bestyrelsesmedlem (lige år)</th>
+                    <td>Søren Lynge</td>
+                    <td>Løvagervej 50</td>
+                  </tr>
+                <tr>
+                    <th>Kasserer</th>
+                    <td>Kim Byrialsen</td>
+                    <td>Løvagervej 20</td>
+                </tr>
+                <tr>
+                    <th>1. Suppleant</th>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th>2. Suppleant</th>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th>Revisor</th>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th>Revisor</th>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <th>Revisorsuppleant</th>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table> 
+        </article>
+    </page> 
 </body>
 </html>

@@ -1,0 +1,183 @@
+body {
+    width: 100vw;
+    margin: auto;
+    font-family: Helvetica, Arial,sans-serif;
+    /* display:flex; Change for desktop */ 
+}
+
+sidebar {
+    display: block;
+    position: fixed;
+    left:-170px;
+    top:0x;
+    width: 250px;
+    border-right: 1px dashed #ccc;
+    height: 100vh;
+    transition: left 0.5s;
+    background-color: white;
+    z-index:2;
+}
+
+sidebar.open {
+    left:0px;
+    transition: left 0.5s;
+}
+
+sidebar img {
+    display: none;
+}
+
+sidebar toggle {
+    position:absolute;
+    right: 0px;
+    width: 80px;
+    height: 80px;
+    display: block;
+    text-align: center;
+    padding:20px 15px;
+    box-sizing: border-box;
+}
+
+sidebar toggle bar {
+    position: relative;
+    display: block;
+    height:4px;
+    width:50px;
+    background-color: #666;
+    margin:8px 0px auto;
+    border-radius: 1px;
+}
+
+sidebar.open toggle bar {
+    display: none;
+}
+
+sidebar.open toggle bar:first-of-type {
+    top:10px;
+    display: block;
+    transform: rotate(45deg)
+}
+
+sidebar.open toggle bar:last-of-type {
+    top:-2px;
+    display: block;
+    transform: rotate(-45deg)
+}
+
+sidebar a:first-of-type {
+    padding-top:100px;
+}
+
+sidebar a {
+    visibility: hidden;
+    display: block;
+    font-size: 120%;
+    padding: 5px 10px;
+    transition-delay:0.5s;
+    transition: visibility 0.5s;
+}
+
+sidebar.open a {
+    visibility: visible;
+}
+
+page {
+    display: block;
+    padding-left:100px;
+    z-index: 0;
+    width: 80vw;
+}
+
+page article {
+    padding:20px 40px;
+}
+
+page article h1 {
+    margin:0px;
+}
+
+page article p, page article ol,page article ul {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+page article p span.paragraf {
+    color:blue;
+    font-size: 150%;
+}
+
+page article #map {
+    height: 500px;
+    width: 100%;
+    max-width: 300px;
+    z-index:-10;
+    float: left;
+    margin: 10px 50px 10px 0px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    padding: 10px 20px 5px 5px;
+    text-align: left;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+}
+
+@media (min-width:1024px) {
+    body {
+        display:flex;
+        flex-direction: row;
+        margin-left:20vw;
+    }
+
+    sidebar toggle {
+        display:none;
+    }
+
+    sidebar {
+        position:fixed;
+        top:0px;
+        left:0px;
+        display: block;
+        width: 250px;
+        border-right: 1px dashed #ccc;
+        height: 100vh;
+        background-color: white;
+    }
+
+    sidebar img {
+        display: block;
+        margin:40px auto;
+        width: 120px;
+    }
+
+    sidebar a:first-of-type {
+        padding-top:0px;
+    }    
+    
+    sidebar a {
+        visibility: visible;
+        padding-left: 40px;
+    }
+
+    page {
+        padding:0px;
+        width: 50vw;
+        min-width: 600px;
+    }
+    
+    page article {
+        padding:20px 40px;
+    }
+    
+    page article h1 {
+        margin:0px;
+        padding-top:20px;
+        padding-bottom: 80px;
+        font-size: 400%;
+    }
+
+}

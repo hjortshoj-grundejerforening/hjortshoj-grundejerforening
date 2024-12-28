@@ -1,70 +1,84 @@
 <!DOCTYPE html>
+
 <head>
     <title>Hjortshøj Grundejerforening</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 </head>
+
 <body>
-    <div class="wrapper" style="width: 800px;">
-        <div>
-            <img src="images/logo.png" />
+    <sidebar >
+        <img src="images/logo.png" />
+        <toggle>
+            <bar></bar>
+            <bar></bar>
+            <bar></bar>
+        </toggle>
+        <a href="index.html">Om foreningen</a>
+        <a href="vedtægter.html">Vedtægter</a>
+        <a href="bestyrelsen.html">Bestyrelsen</a>
+        <a href="referater.html">Referater</a>
+        <a href="regnskab.html">Regnskab</a>
+        <a href="ejendomsmæglere.html">Til ejendomsmæglere</a>
+        <script type="text/javascript">
+            let toggle = document.querySelector("toggle")
+            let sidebar = document.querySelector("sidebar")
+            toggle.onclick = () => { sidebar.classList.toggle("open")}
+        </script>
+    </sidebar>
+    <page>   
+        <article>
             <h1>Hjortshøj Grundejerforening</h1>
-        </div>
-        <ul>
-            <li><a href="index.html">Om foreningen</a></li>
-            <li><a href="vedtægter.html">Vedtægter</a></li>
-            <li><a href="bestyrelsen.html">Bestyrelsen</a></li>
-            <li><a href="referater.html">Referater</a></li>
-            <li><a href="regnskab.html">Regnskab</a></li>
-            <li><a href="ejendomsmæglere.html">Til ejendomsmæglere</a></li>
-        </ul>
-        <div class="content">
-            <p>Hjortshøj Grundejerforening blev stiftet den 4. september 1972. Grundejerforeningen består af 91 parceller fordelt på Bygbjerg, Georgsmindevej, dele af Sastrupvej og Løvagervej, samt fire parcelle på Hundkærvej. Herunder ejer grundejerforeningen fællesarealet med legepladsen på Mejlbyvej 370. Alle veje undtagen Hundkærvej er privat vej ejet og vedligeholdt at grundejerforeningen.</p>
-            <p>Bestyrelsen mødes efter behov og der afholdes en årlig generalforsamling i foråret.</p>
-            <p>I foreningen arrangerer vi ind imellem en sommerfest på legepladsen. Vi mødes hvert år til arbejdsdag(e), hvor vi vedligeholder fællesarealet, renoverer legepladsen o.a.</p>
-            <div id="map" style="height: 1000px;"></div>
-        </div>
-    </div>
-    <!-- Importerer geografiske data for grundejer foreningen -->
-    <script src="./scripts/map/geodata.renset.js"></script>
-    <script>
-        var map = L.map('map');
-        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            minZoom: 15,
-            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-        }).addTo(map);
+            <div id="map"></div>
+            <p>Hjortshøj Grundejerforening blev stiftet den 4. september 1972 i Hjortshøj.</p>
+            <p>Grundejerforeningen består af 91 parceller fordelt på Bygbjerg, Georgsmindevej, dele af Sastrupvej og Løvagervej, samt fire parcelle på Hundkærvej.</p>
+            <p>Grundejerforeningen ejer fællesarealet med legepladsen på Mejlbyvej 370. Alle veje, med undtagelse af Hundkærvej, der hører under grundejerforeningen er private veje. Grundejerforeningen har en vejfond der dækker vedligehold af disse.</p>
+            <p>Der afholdes en årlig generalforsamling i foråret. Derudover arrangeres der arbejdsdag(e) og sommerarrangement efter behov.</p>
 
-        var vejStyle = {
-            "color": "#0000ff",
-            "fillColor": "#0000ff",
-            "weight": 0.5,
-            "opacity": 1,
-            "fillOpacity":0.1
-        };
+            <!-- Importerer geografiske data for grundejer foreningen -->
+            <script src="./scripts/map/geodata.renset.js"></script>
+            <script>
+                var map = L.map('map');
+                L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    minZoom: 15,
+                    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+                }).addTo(map);
 
-        var jordStyle = {
-            "color": "#000099",
-            "fillColor": "#000099",
-            "weight": 0.5,
-            "opacity": 1,
-            "fillOpacity":0.2
-        };
+                var vejStyle = {
+                    "color": "#0000ff",
+                    "fillColor": "#0000ff",
+                    "weight": 0.5,
+                    "opacity": 1,
+                    "fillOpacity": 0.1
+                };
 
-        L.geoJSON(vejData, {
-            style: vejStyle
-        }).addTo(map);
+                var jordStyle = {
+                    "color": "#000099",
+                    "fillColor": "#000099",
+                    "weight": 0.5,
+                    "opacity": 1,
+                    "fillOpacity": 0.2
+                };
 
-        let jordstykker = L.geoJSON(jordstykkeData, {
-            style: jordStyle
-        }).addTo(map);
+                L.geoJSON(vejData, {
+                    style: vejStyle
+                }).addTo(map);
 
-        map.fitBounds(jordstykker.getBounds());
-        map.setMaxBounds(jordstykker.getBounds())
-        map.setZoom(17)
-    </script>
+                let jordstykker = L.geoJSON(jordstykkeData, {
+                    style: jordStyle
+                }).addTo(map);
+                map.scrollWheelZoom.disable()
+                map.fitBounds(jordstykker.getBounds());
+                map.setMaxBounds(jordstykker.getBounds())
+                map.setZoom(16)
+            </script>
+        </article>
+    </page>
 </body>
+
 </html>
